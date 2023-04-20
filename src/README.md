@@ -5,7 +5,7 @@
 git clone  
 git clone https://github.com/shingokataoka/laravel_umarshe.git
 
-git clone ブランチをしてダウンロードする場合
+git clone ブランチをしてダウンロードする場合  
 git clone -b ブランチ名 https://github.com/shingokataoka/laravel_umarshe.git
 
 もしくはzipファイルでダウンロードしてください
