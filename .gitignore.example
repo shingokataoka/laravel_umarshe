@@ -17,3 +17,5 @@
 env_dev.env
 env_prod.env
 .env
+
+.DS_Store
